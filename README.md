@@ -1,0 +1,2 @@
+# Appsheet_Memorandum
+Appsheet作成のための備忘録
